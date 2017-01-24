@@ -752,4 +752,566 @@ LogInit: Object subsystem initialized
 [2017.01.24-14.17.44:736][977]LogAIModule: Creating AISystem for world TopDownExampleMap
 [2017.01.24-14.17.44:736][977]LogPlayLevel: PIE: World Init took: (0.001003s)
 [2017.01.24-14.17.44:736][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022805s)
-[2017.01.24-14
+[2017.01.24-14.17.44:755][977]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.24-14.17.44:759][977]LogInit: FAudioDevice initialized.
+[2017.01.24-14.17.44:793][977]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.24-14.17.44:798][977]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.24-09.17.44
+[2017.01.24-14.17.44:798][977]LogWorld: Bringing up level for play took: 0.004854
+[2017.01.24-14.17.44:799][977]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.24-14.17.44:799][977]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.24-14.17.44:799][977]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.24-14.17.44:799][977]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.24-14.17.44:799][977]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.035
+[2017.01.24-14.17.44:800][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-14.17.53:982][962]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.24-14.17.57:459][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-14.17.57:505][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-14.18.02:140][615]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter2)
+[2017.01.24-14.18.10:461][ 80]LogSavePackage: Save=189.20ms
+[2017.01.24-14.18.10:461][ 80]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownExampleMap92B5E41840D20060F4A26595C9914398.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.24-14.18.10:464][ 80]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.24-16.04.05:396][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.24-16.07.36:160][374]LogSavePackage: Save=212.05ms
+[2017.01.24-16.07.36:160][374]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownExampleMap_Auto1D6FBE9154957A6BF0C26A6BD2F926979.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2017.01.24-16.07.36:162][374]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2017.01.24-16.07.36:163][374]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.249
+[2017.01.24-16.07.36:164][374]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2017.01.24-16.07.36:166][374]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2017.01.24-16.07.36:204][374]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2017.01.24-16.07.36:204][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2017.01.24-16.07.36:248][374]LogSavePackage: Save=36.79ms
+[2017.01.24-16.07.36:248][374]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownCharacter_Auto1559565A94940874563A334B8D3FCCBEE.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset'
+[2017.01.24-16.07.36:250][374]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset
+[2017.01.24-16.07.36:251][374]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/meteorBP] ([1] browsable assets)...
+[2017.01.24-16.07.36:289][374]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/meteorBP.meteorBP]
+[2017.01.24-16.07.36:289][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/meteorBP]
+[2017.01.24-16.07.36:362][374]LogSavePackage: Save=13.82ms
+[2017.01.24-16.07.36:362][374]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/meteorBP_Auto122E6687944D57467E8A5CEAF060E0606.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/Autosaves/Game/Blueprints/meteorBP_Auto1.uasset'
+[2017.01.24-16.07.36:364][374]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/Autosaves/Game/Blueprints/meteorBP_Auto1.uasset
+[2017.01.24-16.07.36:364][374]LogFileHelpers: Auto-saving content packages took 0.200
+[2017.01.24-16.08.23:752][719]BlueprintLog: New page: Compile meteorBP
+[2017.01.24-16.08.24:750][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/meteorBP" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Blueprints/meteorBP.uasset" SILENT=true
+[2017.01.24-16.08.24:768][758]LogSavePackage: Save=11.86ms
+[2017.01.24-16.08.24:768][758]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/meteorBPD86EACFF4878ADC3D0D2F59CC9DB4BF4.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Blueprints/meteorBP.uasset'
+[2017.01.24-16.08.24:771][758]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Blueprints/meteorBP.uasset
+[2017.01.24-16.08.28:659][ 35]LogSavePackage: Save=35.79ms
+[2017.01.24-16.08.28:659][ 35]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownCharacterDF38152042F4B30D92EEBEB22EA42F3C.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.24-16.08.28:662][ 35]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.24-16.11.01:744][465]BlueprintLog: New page: Compile TopDownCharacter
+[2017.01.24-16.11.03:295][551]LogSavePackage: Save=36.61ms
+[2017.01.24-16.11.03:295][551]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownCharacter8BE1673D4A1F95AC90AA38BF223466D5.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.24-16.11.03:298][551]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.24-16.14.00:429][242]BlueprintLog: New page: Compile TopDownExampleMap
+[2017.01.24-16.17.38:141][704]LogClass:Warning: Type mismatch in NewVar_0 of SKEL_TopDownExampleMap_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2017.01.24-16.18.52:685][795]LogSavePackage: Save=206.15ms
+[2017.01.24-16.18.52:685][795]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownExampleMap_Auto2789C8DE646CC86F39A42A290804D2122.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2017.01.24-16.18.52:687][795]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+[2017.01.24-16.18.52:689][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.242
+[2017.01.24-16.18.52:689][795]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.242
+[2017.01.24-16.20.43:483][816]BlueprintLog: New page: Compile meteorBP
+[2017.01.24-16.20.44:319][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/meteorBP" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Blueprints/meteorBP.uasset" SILENT=true
+[2017.01.24-16.20.44:338][861]LogSavePackage: Save=12.06ms
+[2017.01.24-16.20.44:338][861]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/meteorBP97FB29D14922999A0FA119A94EFD2DA4.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Blueprints/meteorBP.uasset'
+[2017.01.24-16.20.44:342][861]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Blueprints/meteorBP.uasset
+[2017.01.24-16.20.46:782][ 38]LogSavePackage: Save=37.72ms
+[2017.01.24-16.20.46:782][ 38]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownCharacter937B99FC485AB41FF2478FAD7FFE980C.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.24-16.20.46:785][ 38]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.24-16.20.49:268][197]LogSavePackage: Save=205.68ms
+[2017.01.24-16.20.49:268][197]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownExampleMap56EBD4F442C65484B5671DB267BE109C.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.24-16.20.49:271][197]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.24-16.20.49:290][197]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.349
+[2017.01.24-16.21.56:111][576]BlueprintLog: New page: Compile TopDownCharacter
+[2017.01.24-16.21.57:549][654]LogSavePackage: Save=39.32ms
+[2017.01.24-16.21.57:549][654]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownCharacter08FF34C846E0C87AEF29CFA00B42DDC5.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2017.01.24-16.21.57:552][654]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2017.01.24-16.39.06:387][182]LogProperty:Warning: Illegal TEXT reference to a private object in external package (StaticMeshActor /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Floor) from referencer (K2Node_Literal /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode:EventGraph.K2Node_Literal_34).  Import failed...
+[2017.01.24-16.39.06:387][182]LogProperty:Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'StaticMeshActor'/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Floor''
+[2017.01.24-16.39.06:401][182]LogBlueprint:Warning: [TopDownGameMode] 'FloorLocationLevel' variable not found. Base class was probably changed.
+[2017.01.24-16.39.06:401][182]LogBlueprint:Warning: [TopDownGameMode] 'FloorLocationLevel' variable not found. Base class was probably changed.
+[2017.01.24-16.39.06:401][182]LogBlueprint:Warning: [TopDownGameMode] 'playerBP' variable not found. Base class was probably changed.
+[2017.01.24-16.39.06:401][182]LogBlueprint:Warning: [TopDownGameMode] 'FloorLocationLevel' variable not found. Base class was probably changed.
+[2017.01.24-16.43.48:016][956]BlueprintLog: New page: Compile TopDownExampleMap
+[2017.01.24-16.43.53:402][298]LogSavePackage: Save=210.46ms
+[2017.01.24-16.43.53:402][298]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownExampleMapE6B0C8EF45F847A2F99F358B151786D9.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.24-16.43.53:406][298]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.24-16.43.53:561][298]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.498
+[2017.01.24-16.43.53:587][298]LogSavePackage: Save=7.52ms
+[2017.01.24-16.43.53:587][298]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownGameMode82B1AEF041462376627E7E861EB14A12.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2017.01.24-16.43.53:590][298]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/TopDownGameMode.uasset
+[2017.01.24-16.43.58:402][630]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.01.24-16.43.58:507][630]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.01.24-16.43.59:787][745]LogSavePackage: Save=198.91ms
+[2017.01.24-16.43.59:787][745]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownExampleMap50C8408E47F29F605F1D3FBDF54AAAAF.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.24-16.43.59:789][745]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.24-16.44.01:702][971]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter2)
+[2017.01.24-16.45.04:570][933]BlueprintLog: New page: Compile AICharacter
+[2017.01.24-16.47.00:776][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/car" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset" SILENT=true
+[2017.01.24-16.47.00:793][935]LogSavePackage: Save=9.33ms
+[2017.01.24-16.47.00:793][935]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/carD0E737004AA867AD474935AC464ABCEF.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset'
+[2017.01.24-16.47.00:796][935]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset
+[2017.01.24-16.47.02:792][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meteor" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/meteor.uasset" SILENT=true
+[2017.01.24-16.47.02:808][ 50]LogSavePackage: Save=8.27ms
+[2017.01.24-16.47.02:808][ 50]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/meteorEA92F41944128F057D1552A5221228FB.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/meteor.uasset'
+[2017.01.24-16.47.02:832][ 50]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/meteor.uasset
+[2017.01.24-16.47.23:692][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.47.23:692][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-16.47.23:693][247]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 6:47:23 AM)
+[2017.01.24-16.47.23:693][247]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.24-16.47.23:716][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023523s)
+[2017.01.24-16.47.23:717][247]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.24-16.47.23:718][247]LogPlayLevel: PIE: World Init took: (0.001513s)
+[2017.01.24-16.47.23:718][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025298s)
+[2017.01.24-16.47.23:738][247]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.24-16.47.23:744][247]LogInit: FAudioDevice initialized.
+[2017.01.24-16.47.23:776][247]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.24-16.47.23:780][247]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.24-11.47.23
+[2017.01.24-16.47.23:781][247]LogWorld: Bringing up level for play took: 0.004381
+[2017.01.24-16.47.23:781][247]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.24-16.47.23:781][247]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.24-16.47.23:781][247]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.24-16.47.23:782][247]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.24-16.47.23:782][247]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.018
+[2017.01.24-16.47.23:782][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.48.24:317][500]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.24-16.48.31:534][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.48.31:601][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.49.24:132][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/No_Bounce" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Material/No_Bounce.uasset" SILENT=true
+[2017.01.24-16.49.24:141][306]LogSavePackage: Save=1.36ms
+[2017.01.24-16.49.24:141][306]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/No_BounceF48C298C45BE9E1D2E689CAF6F22189E.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Material/No_Bounce.uasset'
+[2017.01.24-16.49.24:142][306]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Material/No_Bounce.uasset
+[2017.01.24-16.49.31:286][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.24-16.49.32:069][764]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2017.01.24-16.49.43:391][417]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.49.43:391][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-16.49.43:391][417]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 6:49:43 AM)
+[2017.01.24-16.49.43:391][417]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.24-16.49.43:414][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022592s)
+[2017.01.24-16.49.43:415][417]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.24-16.49.43:415][417]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2017.01.24-16.49.43:415][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023967s)
+[2017.01.24-16.49.43:435][417]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.24-16.49.43:440][417]LogInit: FAudioDevice initialized.
+[2017.01.24-16.49.43:473][417]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.24-16.49.43:477][417]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.24-11.49.43
+[2017.01.24-16.49.43:478][417]LogWorld: Bringing up level for play took: 0.004349
+[2017.01.24-16.49.43:479][417]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.24-16.49.43:479][417]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.24-16.49.43:479][417]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.24-16.49.43:479][417]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.24-16.49.43:479][417]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.286
+[2017.01.24-16.49.43:479][417]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.50.13:775][ 45]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.24-16.50.20:453][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.50.20:493][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.50.59:965][224]Cmd: EDIT COPY
+[2017.01.24-16.51.00:399][249]Cmd: EDIT PASTE
+[2017.01.24-16.51.03:703][437]Cmd: EDIT COPY
+[2017.01.24-16.51.05:199][523]Cmd: TRANSACTION UNDO
+[2017.01.24-16.51.05:199][523]LogEditorTransaction: Undo Move Actors
+[2017.01.24-16.51.07:676][663]Cmd: EDIT COPY
+[2017.01.24-16.51.10:415][819]Cmd: EDIT COPY
+[2017.01.24-16.51.10:830][843]Cmd: EDIT PASTE
+[2017.01.24-16.51.13:884][ 16]Cmd: EDIT COPY
+[2017.01.24-16.51.14:440][ 48]Cmd: EDIT PASTE
+[2017.01.24-16.51.32:653][ 88]Cmd: EDIT PASTE
+[2017.01.24-16.51.43:015][674]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP2)
+[2017.01.24-16.51.44:156][739]Cmd: EDIT COPY
+[2017.01.24-16.51.44:488][758]Cmd: EDIT PASTE
+[2017.01.24-16.51.48:029][960]Cmd: EDIT PASTE
+[2017.01.24-16.51.51:171][139]Cmd: EDIT COPY
+[2017.01.24-16.51.51:449][155]Cmd: EDIT PASTE
+[2017.01.24-16.51.54:261][315]Cmd: EDIT COPY
+[2017.01.24-16.51.54:643][337]Cmd: EDIT PASTE
+[2017.01.24-16.52.00:344][663]Cmd: EDIT COPY
+[2017.01.24-16.52.00:677][682]Cmd: EDIT PASTE
+[2017.01.24-16.52.04:528][905]Cmd: EDIT COPY
+[2017.01.24-16.52.04:886][925]Cmd: EDIT PASTE
+[2017.01.24-16.52.07:208][ 58]Cmd: EDIT COPY
+[2017.01.24-16.52.07:501][ 75]Cmd: EDIT PASTE
+[2017.01.24-16.52.09:630][197]Cmd: EDIT COPY
+[2017.01.24-16.52.09:973][217]Cmd: EDIT PASTE
+[2017.01.24-16.52.18:243][693]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.52.18:243][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-16.52.18:243][693]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 6:52:18 AM)
+[2017.01.24-16.52.18:243][693]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.24-16.52.18:267][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023580s)
+[2017.01.24-16.52.18:268][693]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.24-16.52.18:268][693]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2017.01.24-16.52.18:269][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025126s)
+[2017.01.24-16.52.18:290][693]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.24-16.52.18:295][693]LogInit: FAudioDevice initialized.
+[2017.01.24-16.52.18:331][693]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.24-16.52.18:336][693]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.24-11.52.18
+[2017.01.24-16.52.18:337][693]LogWorld: Bringing up level for play took: 0.005764
+[2017.01.24-16.52.18:338][693]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.24-16.52.18:338][693]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.24-16.52.18:338][693]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.24-16.52.18:338][693]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.24-16.52.18:338][693]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.574
+[2017.01.24-16.52.18:339][693]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.52.25:873][592]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.24-16.52.32:336][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.52.32:375][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.52.38:405][710]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP2)
+[2017.01.24-16.52.43:842][ 16]Cmd: EDIT COPY
+[2017.01.24-16.52.44:165][ 34]Cmd: EDIT PASTE
+[2017.01.24-16.52.48:459][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.52.48:459][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.24-16.52.48:459][282]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 6:52:48 AM)
+[2017.01.24-16.52.48:459][282]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.24-16.52.48:479][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019546s)
+[2017.01.24-16.52.48:479][282]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.24-16.52.48:480][282]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2017.01.24-16.52.48:480][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020845s)
+[2017.01.24-16.52.48:500][282]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.24-16.52.48:505][282]LogInit: FAudioDevice initialized.
+[2017.01.24-16.52.48:533][282]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.24-16.52.48:539][282]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.24-11.52.48
+[2017.01.24-16.52.48:540][282]LogWorld: Bringing up level for play took: 0.005366
+[2017.01.24-16.52.48:540][282]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.24-16.52.48:540][282]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.24-16.52.48:540][282]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.24-16.52.48:541][282]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.24-16.52.48:541][282]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.777
+[2017.01.24-16.52.48:541][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.52.51:515][634]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.24-16.52.59:553][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.52.59:593][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.24-16.53.01:268][692]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP3)
+[2017.01.24-16.53.14:976][478]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP5)
+[2017.01.24-16.53.18:589][684]Cmd: DELETE
+[2017.01.24-16.53.18:589][684]Cmd: ACTOR DELETE
+[2017.01.24-16.53.18:589][684]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.18:606][684]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.01.24-16.53.19:095][713]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP4)
+[2017.01.24-16.53.19:379][727]Cmd: DELETE
+[2017.01.24-16.53.19:379][727]Cmd: ACTOR DELETE
+[2017.01.24-16.53.19:380][727]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.19:393][727]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2017.01.24-16.53.20:027][765]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP)
+[2017.01.24-16.53.20:205][774]Cmd: DELETE
+[2017.01.24-16.53.20:205][774]Cmd: ACTOR DELETE
+[2017.01.24-16.53.20:205][774]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.20:222][774]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.01.24-16.53.20:763][806]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP3)
+[2017.01.24-16.53.20:999][818]Cmd: DELETE
+[2017.01.24-16.53.20:999][818]Cmd: ACTOR DELETE
+[2017.01.24-16.53.20:999][818]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.21:016][818]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.01.24-16.53.21:605][853]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP2)
+[2017.01.24-16.53.21:861][867]Cmd: DELETE
+[2017.01.24-16.53.21:861][867]Cmd: ACTOR DELETE
+[2017.01.24-16.53.21:861][867]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.21:878][867]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.01.24-16.53.22:540][906]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP14)
+[2017.01.24-16.53.23:167][941]Cmd: DELETE
+[2017.01.24-16.53.23:167][941]Cmd: ACTOR DELETE
+[2017.01.24-16.53.23:168][941]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.23:185][941]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.01.24-16.53.26:780][149]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP9)
+[2017.01.24-16.53.26:922][156]Cmd: DELETE
+[2017.01.24-16.53.26:922][156]Cmd: ACTOR DELETE
+[2017.01.24-16.53.26:923][156]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.26:940][156]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.01.24-16.53.27:467][187]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP8)
+[2017.01.24-16.53.27:536][188]Cmd: DELETE
+[2017.01.24-16.53.27:536][188]Cmd: ACTOR DELETE
+[2017.01.24-16.53.27:537][188]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.27:549][188]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.01.24-16.53.28:186][226]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP7)
+[2017.01.24-16.53.28:280][230]Cmd: DELETE
+[2017.01.24-16.53.28:280][230]Cmd: ACTOR DELETE
+[2017.01.24-16.53.28:281][230]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.28:295][230]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2017.01.24-16.53.28:803][260]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP6)
+[2017.01.24-16.53.29:033][272]Cmd: DELETE
+[2017.01.24-16.53.29:033][272]Cmd: ACTOR DELETE
+[2017.01.24-16.53.29:034][272]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.29:050][272]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.01.24-16.53.29:796][316]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP10)
+[2017.01.24-16.53.29:905][321]Cmd: DELETE
+[2017.01.24-16.53.29:905][321]Cmd: ACTOR DELETE
+[2017.01.24-16.53.29:905][321]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.29:922][321]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.01.24-16.53.30:255][341]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP11)
+[2017.01.24-16.53.30:449][351]Cmd: DELETE
+[2017.01.24-16.53.30:449][351]Cmd: ACTOR DELETE
+[2017.01.24-16.53.30:450][351]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.30:467][351]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.01.24-16.53.30:818][372]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP12)
+[2017.01.24-16.53.30:960][379]Cmd: DELETE
+[2017.01.24-16.53.30:960][379]Cmd: ACTOR DELETE
+[2017.01.24-16.53.30:960][379]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.30:978][379]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.01.24-16.53.31:516][411]LogEditorViewport: Clicking on Actor (LMB): meteorBP_C (meteorBP13)
+[2017.01.24-16.53.31:583][413]Cmd: DELETE
+[2017.01.24-16.53.31:583][413]Cmd: ACTOR DELETE
+[2017.01.24-16.53.31:584][413]LogEditorActor: Deleted Actor: meteorBP_C
+[2017.01.24-16.53.31:596][413]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.01.24-16.53.37:531][746]LogSavePackage: Save=202.36ms
+[2017.01.24-16.53.37:531][746]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownExampleMapCD3D57B84FB1481F051BA3B3378F07C2.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.24-16.53.37:534][746]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.24-16.53.42:333][855]LogConfig:Warning: Failed to saved backup for config[Editor]
+[2017.01.24-16.53.52:428][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AICharacter" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AICharacter.uasset" SILENT=true
+[2017.01.24-16.53.52:455][273]LogSavePackage: Save=17.53ms
+[2017.01.24-16.53.52:455][273]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/AICharacter4FCA8C4B4353F53232A4A589AB868751.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AICharacter.uasset'
+[2017.01.24-16.53.52:458][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AICharacter.uasset
+[2017.01.24-16.53.54:542][514]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.24-16.53.54:719][515]Cmd: QUIT_EDITOR
+[2017.01.24-16.53.55:629][515]LogExit: Preparing to exit.
+[2017.01.24-16.53.56:565][515]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/' was aborted.
+[2017.01.24-16.53.56:594][515]LogExit: Editor shut down
+[2017.01.24-16.53.56:595][515]LogExit: Transaction tracking system shut down
+[2017.01.24-16.53.56:728][515]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.24-16.53.56:728][515]LogExit: Object subsystem successfully closed.
+[2017.01.24-16.53.56:742][515]LogD3D11RHI: Shutdown
+[2017.01.24-16.53.56:742][515]LogD3D11RHI: CleanupD3DDevice
+[2017.01.24-16.53.56:817][515]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.24-16.53.56:846][515]LogModuleManager: Shutting down and abandoning module MaterialEditor (238)
+[2017.01.24-16.53.56:846][515]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (237)
+[2017.01.24-16.53.56:846][515]LogModuleManager: Shutting down and abandoning module BlueprintGraph (236)
+[2017.01.24-16.53.56:846][515]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (235)
+[2017.01.24-16.53.56:846][515]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (234)
+[2017.01.24-16.53.56:846][515]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2017.01.24-16.53.56:846][515]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2017.01.24-16.53.56:846][515]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2017.01.24-16.53.56:846][515]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2017.01.24-16.53.56:846][515]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2017.01.24-16.53.56:846][515]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2017.01.24-16.53.56:847][515]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Collections/' was aborted.
+[2017.01.24-16.53.56:847][515]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Developers/RyanSobczak/Collections/' was aborted.
+[2017.01.24-16.53.56:847][515]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/Collections/' was aborted.
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2017.01.24-16.53.56:847][515]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module Media (206)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2017.01.24-16.53.56:848][515]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2017.01.24-16.53.57:749][515]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2017.01.24-16.53.57:749][515]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2017.01.24-16.53.57:749][515]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2017.01.24-16.53.57:749][515]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2017.01.24-16.53.57:749][515]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2017.01.24-16.53.57:749][515]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2017.01.24-16.53.57:749][515]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2017.01.24-16.53.57:750][515]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2017.01.24-16.53.57:751][515]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2017.01.24-16.53.57:751][515]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2017.01.24-16.53.57:751][515]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2017.01.24-16.53.57:751][515]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2017.01.24-16.53.57:751][515]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2017.01.24-16.53.57:795][515]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2017.01.24-16.53.57:795][515]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2017.01.24-16.53.57:795][515]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2017.01.24-16.53.57:795][515]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2017.01.24-16.53.57:795][515]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2017.01.24-16.53.57:795][515]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2017.01.24-16.53.57:795][515]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2017.01.24-16.53.57:795][515]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2017.01.24-16.53.57:795][515]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2017.01.24-16.53.57:805][515]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2017.01.24-16.53.57:805][515]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2017.01.24-16.53.57:806][515]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2017.01.24-16.53.57:968][515]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2017.01.24-16.53.57:969][515]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2017.01.24-16.53.57:969][515]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2017.01.24-16.53.57:969][515]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2017.01.24-16.53.57:969][515]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2017.01.24-16.53.57:969][515]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2017.01.24-16.53.57:969][515]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2017.01.24-16.53.57:969][515]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2017.01.24-16.53.57:969][515]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2017.01.24-16.53.57:969][515]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2017.01.24-16.53.57:970][515]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2017.01.24-16.53.57:970][515]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2017.01.24-16.53.57:971][515]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2017.01.24-16.53.57:973][515]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2017.01.24-16.53.57:973][515]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2017.01.24-16.53.58:074][515]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2017.01.24-16.53.58:174][515]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2017.01.24-16.53.58:175][515]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2017.01.24-16.53.58:175][515]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2017.01.24-16.53.58:175][515]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2017.01.24-16.53.58:175][515]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2017.01.24-16.53.58:175][515]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2017.01.24-16.53.58:175][515]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2017.01.24-16.53.58:175][515]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2017.01.24-16.53.58:175][515]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2017.01.24-16.53.58:175][515]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2017.01.24-16.53.58:175][515]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2017.01.24-16.53.58:183][515]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2017.01.24-16.53.58:183][515]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2017.01.24-16.53.58:183][515]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2017.01.24-16.53.58:183][515]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2017.01.24-16.53.58:183][515]LogModuleManager: Shutting down and abandoning module Core (67)
+[2017.01.24-16.53.58:183][515]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2017.01.24-16.53.58:183][515]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.24-16.53.58:184][515]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/' was aborted.
+[2017.01.24-16.53.58:184][515]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.24-16.53.58:185][515]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2017.01.24-16.53.58:331][515]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2017.01.24-16.53.58:331][515]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2017.01.24-16.53.58:331][515]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2017.01.24-16.53.58:331][515]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2017.01.24-16.53.58:384][515]LogDerivedDataCache: Shutdown
+[2017.01.24-16.53.58:384][515]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2017.01.24-16.53.58:384][515]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2017.01.24-16.53.58:384][515]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2017.01.24-16.53.58:384][515]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2017.01.24-16.53.58:384][515]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2017.01.24-16.53.58:384][515]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2017.01.24-16.53.58:384][515]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2017.01.24-16.53.58:384][515]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2017.01.24-16.53.58:385][515]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.24-16.53.58:385][515]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.24-16.53.58:385][515]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.24-16.53.58:385][515]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F32E742-4C6B-315E-BE88-E892ED33D973%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=35c97e264dc14bb2304ffc82fab700d4%7C6e1620a795d143ed9e7e90917b56ad64%7C3518f840-69c1-4f2d-94a5-f676dbe3b2c8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.24-16.53.58:398][515]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.24-16.53.58:398][515]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.24-16.53.58:398][515]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.24-16.53.58:398][515]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.24-16.53.58:398][515]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.24-16.53.58:400][515]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.24-16.53.58:400][515]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.24-16.53.58:400][515]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.24-16.53.58:400][515]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.24-16.53.58:400][515]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.24-16.53.58:400][515]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.24-16.53.58:400][515]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.24-16.53.58:400][515]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.24-16.53.58:400][515]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.24-16.53.58:400][515]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.24-16.53.58:402][515]LogExit: Exiting.
+[2017.01.24-16.53.58:403][515]Log file closed, 01/24/17 11:53:58
