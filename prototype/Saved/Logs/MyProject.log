@@ -3129,4 +3129,592 @@ LogInit: Object subsystem initialized
 [2017.01.25-05.05.44:731][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2017.01.25-05.05.44:797][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2017.01.25-05.05.46:787][793]LogSavePackage: Save=203.83ms
-[2017.01.25-0
+[2017.01.25-05.05.46:787][793]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownExampleMap7EAD72D24A647FD09CF4A1918970C231.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.25-05.05.46:790][793]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.25-05.08.59:287][142]LogEditorViewport: Clicking on Actor (LMB): AI2_C (AI2)
+[2017.01.25-05.09.11:643][105]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.09.11:643][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-05.09.11:644][105]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:09:11 PM)
+[2017.01.25-05.09.11:644][105]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.09.11:663][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019683s)
+[2017.01.25-05.09.11:665][105]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.09.11:665][105]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2017.01.25-05.09.11:665][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021637s)
+[2017.01.25-05.09.11:686][105]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.09.11:691][105]LogInit: FAudioDevice initialized.
+[2017.01.25-05.09.11:722][105]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.09.11:727][105]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.09.11
+[2017.01.25-05.09.11:728][105]LogWorld: Bringing up level for play took: 0.005154
+[2017.01.25-05.09.11:729][105]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.09.11:729][105]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.09.11:729][105]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.09.11:729][105]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.09.11:729][105]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.035
+[2017.01.25-05.09.11:729][105]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.09.18:527][904]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.09.20:086][ 87]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.09.32:666][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.09.32:734][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.10.07:794][ 47]BlueprintLog: New page: Compile meteorBP
+[2017.01.25-05.10.08:707][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/meteorBP" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Blueprints/meteorBP.uasset" SILENT=true
+[2017.01.25-05.10.08:731][106]LogSavePackage: Save=12.68ms
+[2017.01.25-05.10.08:731][106]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/meteorBP211C8C2841BBC0804F2139A781E68807.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Blueprints/meteorBP.uasset'
+[2017.01.25-05.10.08:734][106]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Blueprints/meteorBP.uasset
+[2017.01.25-05.10.11:518][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.10.11:518][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-05.10.11:518][316]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:10:11 PM)
+[2017.01.25-05.10.11:518][316]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.10.11:539][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021364s)
+[2017.01.25-05.10.11:540][316]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.10.11:541][316]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2017.01.25-05.10.11:541][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022605s)
+[2017.01.25-05.10.11:563][316]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.10.11:568][316]LogInit: FAudioDevice initialized.
+[2017.01.25-05.10.11:597][316]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.10.11:602][316]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.10.11
+[2017.01.25-05.10.11:603][316]LogWorld: Bringing up level for play took: 0.004612
+[2017.01.25-05.10.11:604][316]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.10.11:604][316]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.10.11:604][316]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.10.11:604][316]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.10.11:604][316]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.16
+[2017.01.25-05.10.11:604][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.10.16:955][860]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.10.28:553][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.10.28:620][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.10.29:836][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.10.29:836][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-05.10.29:836][ 26]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:10:29 PM)
+[2017.01.25-05.10.29:836][ 26]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.10.29:855][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019079s)
+[2017.01.25-05.10.29:856][ 26]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.10.29:856][ 26]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2017.01.25-05.10.29:857][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020299s)
+[2017.01.25-05.10.29:877][ 26]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.10.29:883][ 26]LogInit: FAudioDevice initialized.
+[2017.01.25-05.10.29:916][ 26]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.10.29:921][ 26]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.10.29
+[2017.01.25-05.10.29:921][ 26]LogWorld: Bringing up level for play took: 0.004816
+[2017.01.25-05.10.29:922][ 26]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.10.29:922][ 26]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.10.29:922][ 26]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.10.29:922][ 26]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.10.29:923][ 26]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.158
+[2017.01.25-05.10.29:923][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.12.24:494][224]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.12.35:533][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.12.35:601][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.13.10:537][415]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.01.25-05.13.10:726][415]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.01.25-05.13.10:875][415]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_AICharacter_C_2' or package '/Engine/Transient'.
+[2017.01.25-05.13.10:875][415]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_AICharacter_C_3' or package '/Engine/Transient'.
+[2017.01.25-05.13.10:875][415]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_AICharacter_C_203' or package '/Engine/Transient'.
+[2017.01.25-05.13.10:875][415]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_AICharacter_C_320' or package '/Engine/Transient'.
+[2017.01.25-05.13.10:875][415]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_AICharacter_C_319' or package '/Engine/Transient'.
+[2017.01.25-05.13.52:532][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.13.52:532][857]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.01.25-05.13.52:532][857]LogPlayLevel: [PlayLevel] Compiling AI2 before play...
+[2017.01.25-05.13.52:850][857]LogPlayLevel: PlayLevel: Blueprint regeneration took 317 ms (1 blueprints)
+[2017.01.25-05.13.52:851][857]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:13:52 PM)
+[2017.01.25-05.13.52:851][857]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.13.52:872][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021175s)
+[2017.01.25-05.13.52:873][857]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.13.52:874][857]LogPlayLevel: PIE: World Init took: (0.001602s)
+[2017.01.25-05.13.52:874][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023079s)
+[2017.01.25-05.13.52:894][857]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.13.52:900][857]LogInit: FAudioDevice initialized.
+[2017.01.25-05.13.52:933][857]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.13.52:939][857]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.13.52
+[2017.01.25-05.13.52:939][857]LogWorld: Bringing up level for play took: 0.004609
+[2017.01.25-05.13.52:940][857]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.13.52:940][857]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.13.52:940][857]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.13.52:940][857]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.13.52:940][857]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.176
+[2017.01.25-05.13.52:941][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.13.56:013][163]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.14.02:163][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.14.02:226][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.14.14:698][739]BlueprintLog: New page: Compile AI2
+[2017.01.25-05.14.15:709][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI2" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset" SILENT=true
+[2017.01.25-05.14.15:735][807]LogSavePackage: Save=16.42ms
+[2017.01.25-05.14.15:735][807]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/AI2F2BFCC1B44A0B8D681C78380BF30CFE2.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset'
+[2017.01.25-05.14.15:764][807]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset
+[2017.01.25-05.14.18:241][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.14.18:241][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-05.14.18:241][  7]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:14:18 PM)
+[2017.01.25-05.14.18:241][  7]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.14.18:259][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017546s)
+[2017.01.25-05.14.18:260][  7]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.14.18:260][  7]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2017.01.25-05.14.18:260][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018815s)
+[2017.01.25-05.14.18:279][  7]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.14.18:284][  7]LogInit: FAudioDevice initialized.
+[2017.01.25-05.14.18:316][  7]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.14.18:321][  7]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.14.18
+[2017.01.25-05.14.18:322][  7]LogWorld: Bringing up level for play took: 0.005093
+[2017.01.25-05.14.18:323][  7]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.14.18:323][  7]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.14.18:323][  7]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.14.18:323][  7]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.14.18:323][  7]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.559
+[2017.01.25-05.14.18:323][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.14.22:796][462]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.14.25:762][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.14.25:830][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.14.41:548][115]BlueprintLog: New page: Compile AI2
+[2017.01.25-05.14.42:875][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI2" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset" SILENT=true
+[2017.01.25-05.14.42:898][182]LogSavePackage: Save=16.34ms
+[2017.01.25-05.14.42:898][182]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/AI2124FCE13412748C1F8594AA38AD62F04.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset'
+[2017.01.25-05.14.42:902][182]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset
+[2017.01.25-05.14.44:981][348]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.14.44:981][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-05.14.44:981][348]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:14:44 PM)
+[2017.01.25-05.14.44:981][348]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.14.44:999][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017834s)
+[2017.01.25-05.14.44:999][348]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.14.45:000][348]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2017.01.25-05.14.45:000][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019092s)
+[2017.01.25-05.14.45:018][348]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.14.45:022][348]LogInit: FAudioDevice initialized.
+[2017.01.25-05.14.45:052][348]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.14.45:057][348]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.14.45
+[2017.01.25-05.14.45:057][348]LogWorld: Bringing up level for play took: 0.004752
+[2017.01.25-05.14.45:058][348]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.14.45:058][348]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.14.45:058][348]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.14.45:058][348]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.14.45:059][348]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.706
+[2017.01.25-05.14.45:059][348]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.14.47:787][629]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.14.49:243][781]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.14.50:863][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.14.50:926][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.15.31:939][ 77]BlueprintLog: New page: Compile AI2
+[2017.01.25-05.15.32:992][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI2" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset" SILENT=true
+[2017.01.25-05.15.33:015][129]LogSavePackage: Save=15.64ms
+[2017.01.25-05.15.33:016][129]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/AI2DD795FFE4F538804EB9CE9950045C312.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset'
+[2017.01.25-05.15.33:018][129]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset
+[2017.01.25-05.17.16:725][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/car" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset" SILENT=true
+[2017.01.25-05.17.16:743][ 56]LogSavePackage: Save=8.88ms
+[2017.01.25-05.17.16:743][ 56]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/car4D3697634A87EDB680DB9883C0AFC954.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset'
+[2017.01.25-05.17.16:746][ 56]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset
+[2017.01.25-05.17.20:561][333]LogActorFactory: Actor Factory created car
+[2017.01.25-05.17.49:508][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/car" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset" SILENT=true
+[2017.01.25-05.17.49:525][642]LogSavePackage: Save=8.55ms
+[2017.01.25-05.17.49:525][642]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/car9C81A0E14E506A930583DCAEABDBBE48.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset'
+[2017.01.25-05.17.49:528][642]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset
+[2017.01.25-05.18.08:897][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/car" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset" SILENT=true
+[2017.01.25-05.18.08:906][358]LogSavePackage: Save=2.24ms
+[2017.01.25-05.18.08:906][358]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/car2268B66A4A4AE962FD9A34BFC47363A9.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset'
+[2017.01.25-05.18.08:909][358]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset
+[2017.01.25-05.18.14:584][777]LogActorFactory: Actor Factory created car
+[2017.01.25-05.18.23:268][468]BlueprintLog: New page: Compile AI2
+[2017.01.25-05.18.25:025][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI2" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset" SILENT=true
+[2017.01.25-05.18.25:064][570]LogSavePackage: Save=31.77ms
+[2017.01.25-05.18.25:064][570]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/AI23C6FAE04401C4CABC8A8AD907845DA25.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset'
+[2017.01.25-05.18.25:067][570]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset
+[2017.01.25-05.18.27:158][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.18.27:158][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-05.18.27:158][732]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:18:27 PM)
+[2017.01.25-05.18.27:158][732]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.18.27:183][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024121s)
+[2017.01.25-05.18.27:184][732]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.18.27:184][732]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2017.01.25-05.18.27:184][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025793s)
+[2017.01.25-05.18.27:203][732]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.18.27:208][732]LogInit: FAudioDevice initialized.
+[2017.01.25-05.18.27:243][732]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.18.27:248][732]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.18.27
+[2017.01.25-05.18.27:249][732]LogWorld: Bringing up level for play took: 0.004669
+[2017.01.25-05.18.27:250][732]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.18.27:250][732]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.18.27:250][732]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.18.27:250][732]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.18.27:250][732]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.514
+[2017.01.25-05.18.27:250][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.18.33:239][335]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.18.34:721][488]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.18.35:912][614]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.18.37:247][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.18.37:310][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.18.52:452][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.18.52:453][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-05.18.52:453][880]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:18:52 PM)
+[2017.01.25-05.18.52:453][880]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.18.52:472][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018682s)
+[2017.01.25-05.18.52:472][880]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.18.52:473][880]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2017.01.25-05.18.52:473][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019941s)
+[2017.01.25-05.18.52:491][880]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.18.52:496][880]LogInit: FAudioDevice initialized.
+[2017.01.25-05.18.52:526][880]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.18.52:532][880]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.18.52
+[2017.01.25-05.18.52:532][880]LogWorld: Bringing up level for play took: 0.004892
+[2017.01.25-05.18.52:533][880]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.18.52:533][880]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.18.52:533][880]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.18.52:533][880]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.18.52:533][880]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.769
+[2017.01.25-05.18.52:534][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.18.55:393][168]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.18.56:036][233]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.18.56:704][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.18.56:770][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.19.00:430][573]BlueprintLog: New page: Compile AI2
+[2017.01.25-05.19.01:643][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI2" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset" SILENT=true
+[2017.01.25-05.19.01:667][625]LogSavePackage: Save=15.79ms
+[2017.01.25-05.19.01:667][625]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/AI25D5CBC884608DA273C85E9A18553FF49.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset'
+[2017.01.25-05.19.01:670][625]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset
+[2017.01.25-05.19.03:854][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.19.03:854][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-05.19.03:854][798]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:19:03 PM)
+[2017.01.25-05.19.03:854][798]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.19.03:871][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016667s)
+[2017.01.25-05.19.03:872][798]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.19.03:872][798]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2017.01.25-05.19.03:873][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018572s)
+[2017.01.25-05.19.03:891][798]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.19.03:895][798]LogInit: FAudioDevice initialized.
+[2017.01.25-05.19.03:925][798]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.19.03:930][798]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.19.03
+[2017.01.25-05.19.03:931][798]LogWorld: Bringing up level for play took: 0.004650
+[2017.01.25-05.19.03:932][798]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.19.03:932][798]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.19.03:932][798]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.19.03:932][798]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.19.03:932][798]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.167
+[2017.01.25-05.19.03:932][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.19.06:760][130]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.19.10:276][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.19.10:339][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.19.18:297][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/car" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset" SILENT=true
+[2017.01.25-05.19.18:307][176]LogSavePackage: Save=2.33ms
+[2017.01.25-05.19.18:307][176]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/car71E7080B46BE461308AF859AB591F85E.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset'
+[2017.01.25-05.19.18:309][176]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset
+[2017.01.25-05.19.54:064][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/car" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset" SILENT=true
+[2017.01.25-05.19.54:074][223]LogSavePackage: Save=2.01ms
+[2017.01.25-05.19.54:074][223]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/carE0B1E5664806F0A6038FED9E318BE030.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset'
+[2017.01.25-05.19.54:077][223]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset
+[2017.01.25-05.19.54:980][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/car" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset" SILENT=true
+[2017.01.25-05.19.54:990][297]LogSavePackage: Save=2.11ms
+[2017.01.25-05.19.54:990][297]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/car0ABB438D4C432A50553BD1B9FAE4D6F0.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset'
+[2017.01.25-05.19.54:993][297]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Assets/car.uasset
+[2017.01.25-05.20.05:420][110]BlueprintLog: New page: Compile AI2
+[2017.01.25-05.20.07:293][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI2" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset" SILENT=true
+[2017.01.25-05.20.07:318][222]LogSavePackage: Save=16.37ms
+[2017.01.25-05.20.07:319][222]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/AI20A3C1F524A4B8EE57DF65484B1A99658.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset'
+[2017.01.25-05.20.07:321][222]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset
+[2017.01.25-05.20.10:689][482]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.20.10:690][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-05.20.10:690][482]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:20:10 PM)
+[2017.01.25-05.20.10:690][482]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.20.10:709][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019619s)
+[2017.01.25-05.20.10:710][482]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.20.10:710][482]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2017.01.25-05.20.10:711][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020942s)
+[2017.01.25-05.20.10:730][482]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.20.10:734][482]LogInit: FAudioDevice initialized.
+[2017.01.25-05.20.10:765][482]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.20.10:770][482]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.20.10
+[2017.01.25-05.20.10:771][482]LogWorld: Bringing up level for play took: 0.004796
+[2017.01.25-05.20.10:772][482]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.20.10:772][482]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.20.10:772][482]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.20.10:772][482]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.20.10:772][482]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.008
+[2017.01.25-05.20.10:772][482]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.20.14:053][814]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.20.15:470][958]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.20.16:411][ 55]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.20.17:183][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.20.17:246][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.20.18:463][221]LogEditorViewport: Clicking on Actor (LMB): AI2_C (AI2)
+[2017.01.25-05.20.22:379][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.20.22:379][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.25-05.20.22:379][520]PIE: New page: PIE session: TopDownExampleMap (Jan 24, 2017, 7:20:22 PM)
+[2017.01.25-05.20.22:379][520]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.01.25-05.20.22:397][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017489s)
+[2017.01.25-05.20.22:398][520]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.01.25-05.20.22:398][520]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2017.01.25-05.20.22:398][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019295s)
+[2017.01.25-05.20.22:417][520]LogInit: XAudio2 using 'Speakers (5- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.25-05.20.22:421][520]LogInit: FAudioDevice initialized.
+[2017.01.25-05.20.22:455][520]LogWorld: Game class is 'TopDownGameMode_C'
+[2017.01.25-05.20.22:460][520]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.01.25-00.20.22
+[2017.01.25-05.20.22:460][520]LogWorld: Bringing up level for play took: 0.004854
+[2017.01.25-05.20.22:461][520]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.20.22:461][520]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.01.25-05.20.22:461][520]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.20.22:462][520]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.01.25-05.20.22:462][520]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.697
+[2017.01.25-05.20.22:462][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.20.25:404][820]LogBlueprintUserMessages: [TopDownExampleMap_C_0] Hello
+[2017.01.25-05.20.26:899][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.20.26:960][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.01.25-05.20.32:410][361]LogSavePackage: Save=198.43ms
+[2017.01.25-05.20.32:410][361]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/TopDownExampleMap47DFAF8442DF967F628F27965F1190D4.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.01.25-05.20.32:414][361]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.01.25-05.20.35:745][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI2" FILE="../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset" SILENT=true
+[2017.01.25-05.20.35:768][616]LogSavePackage: Save=15.77ms
+[2017.01.25-05.20.35:768][616]LogSavePackage: Moving '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/AI228E33C6E4884AD8F0495D7950E8BCA66.tmp' to '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset'
+[2017.01.25-05.20.35:771][616]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/TopDownBP/Blueprints/AI2.uasset
+[2017.01.25-05.20.41:269][ 55]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.25-05.20.41:640][ 56]Cmd: QUIT_EDITOR
+[2017.01.25-05.20.42:739][ 56]LogExit: Preparing to exit.
+[2017.01.25-05.20.43:833][ 56]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/' was aborted.
+[2017.01.25-05.20.44:138][ 56]LogExit: Editor shut down
+[2017.01.25-05.20.44:139][ 56]LogExit: Transaction tracking system shut down
+[2017.01.25-05.20.46:607][ 56]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.25-05.20.46:607][ 56]LogExit: Object subsystem successfully closed.
+[2017.01.25-05.20.47:173][ 56]LogD3D11RHI: Shutdown
+[2017.01.25-05.20.47:173][ 56]LogD3D11RHI: CleanupD3DDevice
+[2017.01.25-05.20.47:563][ 56]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.25-05.20.48:923][ 56]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (238)
+[2017.01.25-05.20.48:940][ 56]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (237)
+[2017.01.25-05.20.48:954][ 56]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (236)
+[2017.01.25-05.20.48:954][ 56]LogModuleManager: Shutting down and abandoning module BlueprintGraph (235)
+[2017.01.25-05.20.48:954][ 56]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (234)
+[2017.01.25-05.20.49:043][ 56]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2017.01.25-05.20.49:079][ 56]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2017.01.25-05.20.49:080][ 56]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2017.01.25-05.20.49:080][ 56]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2017.01.25-05.20.49:080][ 56]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2017.01.25-05.20.49:109][ 56]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2017.01.25-05.20.49:180][ 56]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2017.01.25-05.20.49:180][ 56]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2017.01.25-05.20.49:180][ 56]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2017.01.25-05.20.49:186][ 56]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Collections/' was aborted.
+[2017.01.25-05.20.49:186][ 56]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/Developers/RyanSobczak/Collections/' was aborted.
+[2017.01.25-05.20.49:186][ 56]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan Sobczak/Desktop/godTraffic/prototype/Saved/Collections/' was aborted.
+[2017.01.25-05.20.49:186][ 56]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2017.01.25-05.20.49:187][ 56]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2017.01.25-05.20.49:187][ 56]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2017.01.25-05.20.49:199][ 56]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2017.01.25-05.20.49:199][ 56]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2017.01.25-05.20.49:199][ 56]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2017.01.25-05.20.49:199][ 56]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2017.01.25-05.20.49:199][ 56]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2017.01.25-05.20.49:230][ 56]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2017.01.25-05.20.49:230][ 56]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2017.01.25-05.20.49:230][ 56]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2017.01.25-05.20.49:230][ 56]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2017.01.25-05.20.49:242][ 56]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2017.01.25-05.20.49:242][ 56]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2017.01.25-05.20.49:299][ 56]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module Media (206)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2017.01.25-05.20.49:493][ 56]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2017.01.25-05.20.49:660][ 56]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2017.01.25-05.20.49:757][ 56]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2017.01.25-05.20.49:838][ 56]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2017.01.25-05.20.49:838][ 56]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2017.01.25-05.20.49:905][ 56]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2017.01.25-05.20.49:905][ 56]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2017.01.25-05.20.50:411][ 56]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2017.01.25-05.20.50:436][ 56]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2017.01.25-05.20.50:436][ 56]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2017.01.25-05.20.50:436][ 56]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2017.01.25-05.20.50:514][ 56]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2017.01.25-05.20.50:668][ 56]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2017.01.25-05.20.50:676][ 56]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2017.01.25-05.20.50:735][ 56]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2017.01.25-05.20.50:735][ 56]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2017.01.25-05.20.50:748][ 56]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2017.01.25-05.20.50:815][ 56]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2017.01.25-05.20.50:836][ 56]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2017.01.25-05.20.50:901][ 56]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2017.01.25-05.20.50:930][ 56]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2017.01.25-05.20.50:930][ 56]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2017.01.25-05.20.50:930][ 56]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2017.01.25-05.20.50:949][ 56]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2017.01.25-05.20.50:962][ 56]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2017.01.25-05.20.50:962][ 56]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2017.01.25-05.20.51:068][ 56]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2017.01.25-05.20.51:069][ 56]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2017.01.25-05.20.51:095][ 56]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2017.01.25-05.20.51:113][ 56]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2017.01.25-05.20.51:132][ 56]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2017.01.25-05.20.51:157][ 56]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2017.01.25-05.20.51:157][ 56]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2017.01.25-05.20.51:230][ 56]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2017.01.25-05.20.51:256][ 56]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2017.01.25-05.20.51:277][ 56]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2017.01.25-05.20.51:299][ 56]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2017.01.25-05.20.51:299][ 56]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2017.01.25-05.20.51:306][ 56]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2017.01.25-05.20.51:306][ 56]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2017.01.25-05.20.51:306][ 56]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2017.01.25-05.20.51:341][ 56]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2017.01.25-05.20.51:369][ 56]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2017.01.25-05.20.51:369][ 56]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2017.01.25-05.20.51:380][ 56]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2017.01.25-05.20.51:393][ 56]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2017.01.25-05.20.51:431][ 56]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2017.01.25-05.20.51:474][ 56]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2017.01.25-05.20.51:500][ 56]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2017.01.25-05.20.51:582][ 56]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2017.01.25-05.20.51:582][ 56]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2017.01.25-05.20.51:617][ 56]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2017.01.25-05.20.51:617][ 56]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2017.01.25-05.20.51:617][ 56]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2017.01.25-05.20.51:617][ 56]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2017.01.25-05.20.51:618][ 56]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2017.01.25-05.20.51:618][ 56]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2017.01.25-05.20.51:640][ 56]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2017.01.25-05.20.51:649][ 56]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2017.01.25-05.20.51:649][ 56]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2017.01.25-05.20.51:880][ 56]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2017.01.25-05.20.52:000][ 56]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2017.01.25-05.20.52:000][ 56]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2017.01.25-05.20.52:000][ 56]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2017.01.25-05.20.52:000][ 56]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2017.01.25-05.20.52:034][ 56]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2017.01.25-05.20.52:034][ 56]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2017.01.25-05.20.52:034][ 56]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2017.01.25-05.20.52:034][ 56]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2017.01.25-05.20.52:034][ 56]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2017.01.25-05.20.52:034][ 56]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2017.01.25-05.20.52:034][ 56]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2017.01.25-05.20.52:100][ 56]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2017.01.25-05.20.52:100][ 56]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2017.01.25-05.20.52:100][ 56]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2017.01.25-05.20.52:100][ 56]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2017.01.25-05.20.52:100][ 56]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2017.01.25-05.20.52:113][ 56]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2017.01.25-05.20.52:113][ 56]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2017.01.25-05.20.52:113][ 56]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2017.01.25-05.20.52:113][ 56]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2017.01.25-05.20.52:145][ 56]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2017.01.25-05.20.52:165][ 56]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2017.01.25-05.20.52:167][ 56]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2017.01.25-05.20.52:197][ 56]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2017.01.25-05.20.52:205][ 56]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2017.01.25-05.20.52:205][ 56]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2017.01.25-05.20.52:227][ 56]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2017.01.25-05.20.52:353][ 56]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2017.01.25-05.20.52:372][ 56]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2017.01.25-05.20.52:389][ 56]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2017.01.25-05.20.52:389][ 56]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2017.01.25-05.20.52:407][ 56]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2017.01.25-05.20.52:407][ 56]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2017.01.25-05.20.52:407][ 56]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2017.01.25-05.20.52:427][ 56]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2017.01.25-05.20.52:447][ 56]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2017.01.25-05.20.52:466][ 56]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2017.01.25-05.20.52:466][ 56]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2017.01.25-05.20.52:468][ 56]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2017.01.25-05.20.52:469][ 56]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2017.01.25-05.20.52:491][ 56]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2017.01.25-05.20.52:592][ 56]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2017.01.25-05.20.52:721][ 56]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2017.01.25-05.20.52:721][ 56]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2017.01.25-05.20.52:730][ 56]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2017.01.25-05.20.52:779][ 56]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2017.01.25-05.20.52:849][ 56]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2017.01.25-05.20.52:849][ 56]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2017.01.25-05.20.52:850][ 56]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2017.01.25-05.20.52:960][ 56]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2017.01.25-05.20.52:960][ 56]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2017.01.25-05.20.52:960][ 56]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2017.01.25-05.20.52:960][ 56]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2017.01.25-05.20.53:079][ 56]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2017.01.25-05.20.53:079][ 56]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2017.01.25-05.20.53:134][ 56]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2017.01.25-05.20.53:231][ 56]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2017.01.25-05.20.53:231][ 56]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2017.01.25-05.20.53:231][ 56]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2017.01.25-05.20.53:305][ 56]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2017.01.25-05.20.53:409][ 56]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2017.01.25-05.20.53:468][ 56]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2017.01.25-05.20.53:549][ 56]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2017.01.25-05.20.53:549][ 56]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2017.01.25-05.20.53:555][ 56]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2017.01.25-05.20.53:555][ 56]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2017.01.25-05.20.53:555][ 56]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2017.01.25-05.20.53:555][ 56]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2017.01.25-05.20.53:555][ 56]LogModuleManager: Shutting down and abandoning module Core (67)
+[2017.01.25-05.20.53:555][ 56]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2017.01.25-05.20.53:555][ 56]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.25-05.20.53:555][ 56]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Ryan Sobczak/Desktop/godTraffic/prototype/Content/' was aborted.
+[2017.01.25-05.20.53:556][ 56]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.25-05.20.53:556][ 56]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2017.01.25-05.20.53:760][ 56]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2017.01.25-05.20.53:760][ 56]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2017.01.25-05.20.53:760][ 56]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2017.01.25-05.20.53:771][ 56]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2017.01.25-05.20.53:794][ 56]LogDerivedDataCache: Shutdown
+[2017.01.25-05.20.53:794][ 56]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2017.01.25-05.20.53:810][ 56]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2017.01.25-05.20.53:819][ 56]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2017.01.25-05.20.53:820][ 56]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2017.01.25-05.20.53:851][ 56]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2017.01.25-05.20.53:851][ 56]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2017.01.25-05.20.53:851][ 56]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2017.01.25-05.20.53:851][ 56]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2017.01.25-05.20.53:863][ 56]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2017.01.25-05.20.53:863][ 56]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2017.01.25-05.20.53:863][ 56]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2017.01.25-05.20.53:863][ 56]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2017.01.25-05.20.53:879][ 56]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2017.01.25-05.20.53:879][ 56]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2017.01.25-05.20.53:879][ 56]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2017.01.25-05.20.53:879][ 56]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2017.01.25-05.20.53:879][ 56]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.25-05.20.53:880][ 56]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.25-05.20.53:893][ 56]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2017.01.25-05.20.53:893][ 56]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2017.01.25-05.20.53:902][ 56]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2017.01.25-05.20.53:902][ 56]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2017.01.25-05.20.53:911][ 56]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.25-05.20.53:962][ 56]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.25-05.20.53:962][ 56]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.25-05.20.53:962][ 56]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BACD2C541-4664-251F-9B06-5AA6BAC9B1D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=35c97e264dc14bb2304ffc82fab700d4%7C6e1620a795d143ed9e7e90917b56ad64%7C3518f840-69c1-4f2d-94a5-f676dbe3b2c8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.25-05.20.54:024][ 56]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.25-05.20.54:048][ 56]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.25-05.20.54:069][ 56]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.25-05.20.54:069][ 56]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.25-05.20.54:069][ 56]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.25-05.20.54:090][ 56]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.25-05.20.54:120][ 56]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.25-05.20.54:120][ 56]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.25-05.20.54:120][ 56]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.25-05.20.54:120][ 56]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.25-05.20.54:120][ 56]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.25-05.20.54:120][ 56]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.25-05.20.54:140][ 56]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.25-05.20.54:140][ 56]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.25-05.20.54:140][ 56]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.25-05.20.54:205][ 56]LogExit: Exiting.
+[2017.01.25-05.20.54:329][ 56]Log file closed, 01/25/17 00:20:54
