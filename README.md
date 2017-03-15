@@ -15,13 +15,25 @@ When your available resources equal zero, you can build anything.
 Each new day you are rewarded with some resources, so be smart and don't die.
 
 Controls:
+Keyboard:
 WASD - movement
 1 - Build a destructable box
     - slows down the Unspeakables, cost little
 2 - Build an indestructable box
     - forces Unspeakables to find a new way, cost a lot
 Mouse - Move cursor for building boxes
+Space - pause/unpause
 
 Debug Controls:
 left Ctrl: Move to next day, doesn't affect sun
 Tab: Move to night, doesn't affect sun
+
+X-Box Controller
+Left joystick - movement
+A - Builds destructable box
+B - Builds indestructable box 
+Right joystick - move cursor
+Start - pause/unpause
+
+D-pad Down - Move to next day
+D-pad UP - Move to night
