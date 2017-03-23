@@ -15,6 +15,7 @@ When your available resources equal zero, you can build anything.
 Each new day you are rewarded with some resources, so be smart and don't die.
 
 Controls:
+Select, on controller, and Left Alt - switch between using mouse/contoller for aiming and menus 
 Keyboard:
 WASD - movement
 1 - Build a destructable box
