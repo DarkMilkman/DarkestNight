@@ -11,7 +11,7 @@ Set up the barricades to protect your house.
 At night they will appear at try to attack your house.
 At night you can also set up barricades to try to stop them, 
 but all building costs are more.
-When your available resources equal zero, you can build anything. 
+When your available resources equal zero, you can't build anything. 
 Each new day you are rewarded with some resources, so be smart and don't die.
 
 Controls:
